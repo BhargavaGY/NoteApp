@@ -41,7 +41,6 @@
             ----------------------------<br>
             <a href='index.php' class='titlelink dropdownlink'>LOG OUT</a>
             </div></td>
-            <td><a href='help.php'><img src='questionmark.png' alt='Help' title='Help'></a></td><td></td>
         </tr></table>
         <table class='bodypadding' width='80%' align='center' border='0' cellpadding='0'>
         <tr><td colspan='4'>";
